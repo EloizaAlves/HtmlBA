@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+div{
+    border-style: double;
+    text-align: center;
+    border-color: rgb(240, 12, 81);
+    border-radius: 12px;
+  padding: 5px;
+  align-items: center;
+  display:flex;
+
+}
