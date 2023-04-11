@@ -25,7 +25,7 @@ let r = 2;
     else if (r < 0){
         console.log(r +  `É menor que 0 `)
     }
-    else if (r = 0){
+    else if (r ==0){
         console.log(r + ` É igual que 0 `)
     }
 
