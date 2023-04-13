@@ -1,3 +1,4 @@
+
 body{
     background-color: black;
     color: aliceblue;
@@ -5,9 +6,11 @@ body{
 div{
     border-style: double;
     text-align: center;
-    border-color: rgb(240, 12, 81);
+    border-color: rgb(9, 226, 255);
+    background-color: rgb(35, 7, 102);
     border-radius: 40px;
     position: relative;
+    border-width: 10px
 }
 .box{
   position: absolute;
