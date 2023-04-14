@@ -1,3 +1,19 @@
+
 header{
     text-align: center;
+    background-color: rgba(0, 0, 0, 0.952);
+    
+}
+h1{
+    font-size:50px;
+}
+#PN{
+    color: rgb(255, 255, 255);
+  text-shadow: 2px 2px 4px #00fff2;
+
+}
+li{
+    display: inline-block;
+  font-size: 20px;
+  padding: 20px;
 }
