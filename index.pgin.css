@@ -1,7 +1,11 @@
 *{
-  text-align: center;
-  background-color: rgb(27, 28, 29);
+  background-color: rgb(3, 3, 3);
+  color: aliceblue;
 }
 header{
-    text-align: center;
-    background-color:rgb(17, 15, 15) }
+  text-align: center;
+}
+
+a{
+  color:aliceblue;
+}
